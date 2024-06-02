@@ -1,0 +1,10 @@
+a=int(input("Enter integer number to arithmetic operation= "))
+b=int(input("Enter integer number to arithmetic operation= "))
+
+print(f"sum= {a+b}")
+print(f"multiplication= {a*b}")
+print(f"devition= {a/b}")
+print(f"minus= {a-b}")
+print(f"exponantial= {a**b}")
+print(f"floor devision= {a//b}")
+print(f"average= {(a+b/2)}")
